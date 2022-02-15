@@ -714,5 +714,24 @@ margin: 0 auto;
  
 }
 
+.footer-section {
+  flex-direction: column;
+}
+
+.rd-footer-areas {
+  flex-direction: column;
+  display: flex;
+  gap: 1rem;
+}
+.rd-subtitle {
+ 
+  margin: 18px 0;
+}
+
+.rd-footer-brand-icon {
+ 
+  justify-content: start;
+}
+
 
 }
