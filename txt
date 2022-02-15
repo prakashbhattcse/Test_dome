@@ -1,0 +1,183 @@
+
+    <div class="container my-5">
+        <!-- Footer -->
+        <footer class=" text-lg-start text-black" style="background-color: white;">
+            <!-- Grid container -->
+            <div class="container p-4 pb-0">
+                <!-- Section: Links -->
+                <section class="">
+                    <!--Grid row-->
+                    <div class="row">
+                        <!-- Grid column -->
+                        <div class="col-md-3 col-lg-3 col-xl-3 mx-auto mt-3">
+                            <h6 class="text-start mb-4 font-weight-bold">
+                                TestDome
+                            </h6>
+                            <div class="col-md-5 col-lg-4 ml-lg-0 icons">
+                                <!-- Facebook -->
+                                <a class="btn btn-outline-dark btn-floating m-1" class="text-black" role="button"><i
+                                        class="fab fa-facebook-square"></i></a>
+
+                                <!-- Twitter -->
+                                <a class="btn btn-outline-dark btn-floating m-1" class="text-black" role="button"><i
+                                        class="fab fa-twitter-square"></i></a>
+
+                            </div>
+                        </div>
+                        <!-- Grid column -->
+
+                        <hr class="w-100 clearfix d-md-none" />
+
+                        <!-- Grid column -->
+                        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 font-weight-bold">Products</h6>
+                            <p>
+                                <a class="text-black">MDBootstrap</a>
+                            </p>
+                            <p>
+                                <a class="text-black">MDWordPress</a>
+                            </p>
+                            <p>
+                                <a class="text-black">BrandFlow</a>
+                            </p>
+                            <p>
+                                <a class="text-black">Bootstrap Angular</a>
+                            </p>
+                        </div>
+
+
+
+
+                        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 font-weight-bold">Products</h6>
+                            <p>
+                                <a class="text-black">MDBootstrap</a>
+                            </p>
+                            <p>
+                                <a class="text-black">MDWordPress</a>
+                            </p>
+                            <p>
+                                <a class="text-black">BrandFlow</a>
+                            </p>
+                            <p>
+                                <a class="text-black">Bootstrap Angular</a>
+                            </p>
+                        </div>
+                        <!-- Grid column -->
+
+                        <hr class="w-100 clearfix d-md-none" />
+
+                        <!-- Grid column -->
+                        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 font-weight-bold">
+                                Useful links
+                            </h6>
+                            <p>
+                                <a class="text-black">Your Account</a>
+                            </p>
+                            <p>
+                                <a class="text-black">Become an Affiliate</a>
+                            </p>
+                            <p>
+                                <a class="text-black">Shipping Rates</a>
+                            </p>
+                            <p>
+                                <a class="text-black">Help</a>
+                            </p>
+                        </div>
+
+                        <!-- Grid column -->
+                        <hr class="w-100 clearfix d-md-none" />
+
+                        <!-- Grid column -->
+                        <div class="col-md-4 col-lg-3 col-xl-3 mx-auto mt-3">
+                            <h6 class="text-uppercase mb-4 font-weight-bold">Resource</h6>
+                            <p> Blog</p>
+                            <p>Read Evidence-Based Hiring</p>
+                            <p>Case Studies</p>
+                            <p>ROI Calculator</p>
+                        </div>
+                        <!-- Grid column -->
+                    </div>
+                    <!--Grid row-->
+                </section>
+                <!-- Section: Links -->
+
+            </div>
+            <!-- Grid container -->
+        </footer>
+        <!-- Footer -->
+    </div>
+
+
+    
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+        integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1"
+        crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+        integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM"
+        crossorigin="anonymous"></script>
+
+
+        
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <div id="resources-dropdown" class="rd-drop-link btn-group">
+        <button class="text-uppercase" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+            Resources
+            <i class="fas fa-chevron-down"></i>
+        </button>
+        <ul class="dropdown-menu">
+            <li><a href="https://blog.testdome.com/" target="_blank" rel="noopener">Blog</a></li>
+            <li><a class="disable-new-window-icon" href="/evidence-based-hiring" target="_blank" rel="noopener">Read Evidence-Based Hiring</a></li>
+            <li><a href="https://support.testdome.com/">Support</a></li>
+            <li><a href="/case-studies">Case Studies</a></li>
+            <li><a href="/roi">ROI Calculator</a></li>
+        </ul>
+    </div>
+
+
+    <div class="rd-navbar-middle h-100">
+        <a href="/tour" class="rd-link text-uppercase ">
+            Tour
+        </a>
+        <a href="/tests" class="rd-link text-uppercase ">
+            Tests
+        </a>
+        <a href="/questions" class="rd-link text-uppercase ">
+            Questions
+        </a>
+        <a href="/pricing" class="rd-link text-uppercase ">
+            Pricing
+        </a>
+        <div id="resources-dropdown" class="rd-drop-link btn-group">
+            <button class="text-uppercase" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                Resources
+                <i class="fas fa-chevron-down"></i>
+            </button>
+            <ul class="dropdown-menu">
+                <li><a href="https://blog.testdome.com/" target="_blank" rel="noopener">Blog</a></li>
+                <li><a class="disable-new-window-icon" href="/evidence-based-hiring" target="_blank" rel="noopener">Read Evidence-Based Hiring</a></li>
+                <li><a href="https://support.testdome.com/">Support</a></li>
+                <li><a href="/case-studies">Case Studies</a></li>
+                <li><a href="/roi">ROI Calculator</a></li>
+            </ul>
+        </div>
+    </div>
